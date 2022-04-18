@@ -1,7 +1,6 @@
 rm(list=ls())
 #BiocManager::install("")
 
-# expression of mTOR components was downloaded from https://twc-stanford.shinyapps.io/human_bbb/
 expr <- read.csv("abundances_0422_control.csv", header = T, stringsAsFactors = FALSE)
 expr1 <- read.csv("abundances_0422_AD.csv", header = T, stringsAsFactors = FALSE)
 
