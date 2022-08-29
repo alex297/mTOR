@@ -1,6 +1,6 @@
 # mTOR
 R code for Pokhilko, et.al. Mathematical modelling of brain mTOR activity identifies selective vulnerability of cell types and signalling pathways. 
-bioRxiv 2022
+bioRxiv/505685, 2022
 
 To simulate kinetics of mTOR pathway (Fig. S1, Fig. S2), run
 mTOR_ode_kinetics_insulin.R; mTOR_ode_kinetics_PDGF.R; mTOR_ode_kinetics_NRG.R
